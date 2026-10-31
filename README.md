@@ -10,7 +10,7 @@ Made for tired, busy parents, starting in Nepal and India.
 - 🌐 Web: [autipal.com](https://autipal.com)
 - 🍎 iPhone and iPad: [App Store](https://apps.apple.com/app/autipal/id6794401041)
 - 🤖 Android: [Google Play](https://play.google.com/store/apps/details?id=com.autipal.android)
-- 🗣️ English · नेपाली · हिन्दी · Español
+- 🗣️ 64 languages, including English · नेपाली · हिन्दी · Español, with more coming soon
 
 **How it's built:** Next.js 14 · TypeScript · MongoDB · SwiftUI · Kotlin + Jetpack Compose · OpenAI
 
